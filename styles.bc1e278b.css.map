@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,OACE,UAAW,CACX,WACF,CAEA,KACE,eAAgB,CAChB,eACF","file":"styles.bc1e278b.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\ncanvas {\n  width: 100%;\n  height: 100%;\n}\n\nbody {\n  overflow: hidden;\n  background: #eee;\n}\n"]}
